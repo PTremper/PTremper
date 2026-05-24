@@ -18,7 +18,7 @@ My work focuses on combining machine learning, sensor data, and scientific compu
 Python • PyTorch • Scikit-learn • NumPy • Pandas
 
 ### Visualization & Web
-Matplotlib • AngularJS • JavaScript • HTML/CSS
+Matplotlib • JavaScript • HTML/CSS
 
 ### Scientific & Numerical Methods
 Gaussian Processes • Neural Networks • Statistical Modeling • Surrogate Modelling
