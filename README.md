@@ -7,31 +7,31 @@ My work focuses on combining machine learning, sensor data, and scientific compu
 ## Research & Engineering Interests
 
 - Scientific machine learning
-- Spatiotemporal forecasting
-- Environmental sensing
-- Surrogate modeling
+- Statistical modeling and probabilistic inference
+- Spatiotemporal data analysis and forecasting
 - Uncertainty-aware prediction
+- Data-driven surrogate modeling for complex real-world systems
 
 ## Technical Stack
 
-### Machine Learning & Scientific Computing
+### Scientific Computing
 Python • PyTorch • Scikit-learn • NumPy • Pandas
+
+### Machine Learning & Statistical Methods
+Gaussian Processes • Neural Networks • Statistical Modeling • Regression Methods • Surrogate Modelling
 
 ### Visualization & Web
 Matplotlib • JavaScript • HTML/CSS
-
-### Scientific & Numerical Methods
-Gaussian Processes • Neural Networks • Statistical Modeling • Surrogate Modelling
 
 ## Background
 
 - PhD in Theoretical Physics
 - 6+ years working in interdisciplinary applied research projects
 - Experience collaborating with academia and industry
-- Focus on ML for physical and environmental systems
+- Focus on ML for physical and complex real-world systems
 
 ## Current Focus
 
-- Refining and publishing previous scientific ML projects
+- Refining and publishing previous scientific machine learning projects
 - Building educational research-oriented repositories
 - Exploring Rust for systems programming and scientific tooling
