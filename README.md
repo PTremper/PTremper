@@ -1,37 +1,60 @@
 # Hi, I'm Paul
 
-Research engineer with a background in theoretical physics and applied machine learning for physical and spatiotemporal systems.
+Research engineer with a background in theoretical physics, applied AI / ML for physical and spatiotemporal systems, and scientific software engineering.
 
-My work focuses on combining machine learning, sensor data, and scientific computing to better understand and model complex real-world processes.
+My work focuses on understanding complex natural and technical systems by connecting ideas across disciplines. I then use this understanding to model complex real-world processes and enable others to better grasp and use these systems.
 
-## Research & Engineering Interests
+Most repositories here are engineering-focused demonstrators: projects built to explore new technologies, validate ideas and create reusable reference implementations. I build them not only to deepen my own understanding, but also to make complex technical ideas transparent, readable and easier for others to understand and build upon.
 
-- Scientific machine learning
-- Statistical modeling and probabilistic inference
-- Spatiotemporal data analysis and forecasting
-- Uncertainty-aware prediction
-- Data-driven surrogate modeling for complex real-world systems
+## What you'll find here
 
-## Technical Stack
+Most of my projects explore topics such as
 
-### Scientific Computing
-Python • PyTorch • Scikit-learn • NumPy • Pandas
+- Applied AI / Gen AI Workflow Systems Architecture and Large Language Models
+- Scientific Machine Learning and Scientific Software Engineering
+- Simulation and Surrogate Modelling
 
-### Machine Learning & Statistical Methods
-Gaussian Processes • Neural Networks • Statistical Modeling • Regression Methods • Surrogate Modelling
+Rather than building applications around a particular framework, I enjoy understanding the systems behind them. Building software is my way of exploring complex ideas, testing my understanding and turning it into something tangible. I try to write code that remains clear, modular and easy to follow—not only because it is easier to maintain, but because **well-structured software reflects a well-understood system**.
 
-### Visualization & Web
-Matplotlib • JavaScript • HTML/CSS
+## Engineering Principles
+
+Across projects I try to build software that is
+
+- Modular rather than monolithic
+- Understandable before optimized
+- Easy to experiment with
+- Well documented
+- Reproducible
+- Grounded in first-principles understanding
+
+**Whenever possible, I prefer to understand a technology deeply enough that I can build it—and build it clearly enough that I can explain it.**
 
 ## Background
 
-- PhD in Theoretical Physics
-- 6+ years working in interdisciplinary applied research projects
-- Experience collaborating with academia and industry
-- Focus on ML for physical and complex real-world systems
+- PhD (Dr. rer. nat.) in Theoretical Physics
+- 6+ years working in interdisciplinary applied AI / ML research projects collaborating with academia and industry
+- Specializing in machine learning for spatiotemporal, physical and complex real-world systems
+- University teaching, mentoring and project coordination
+
+## Technical Expertise
+
+### Programming
+
+Python • PyTorch • NumPy • Pandas • Scikit-learn • Matplotlib • JavaScript • HTML • CSS
+### Machine Learning
+
+Gaussian Processes • Neural Networks • Statistical Modelling • Scientific Machine Learning • Surrogate Modelling
+### AI Systems
+
+Retrieval-Augmented Generation (RAG) • Semantic Retrieval  • Embedding Pipelines • Vector Search • Local LLM Integration
+### Software Engineering
+
+Modular Software Architecture • Scientific Software Development • Workflow and Systems design • API Integration • AI-assisted Software Engineering
 
 ## Current Focus
 
-- Refining and publishing previous scientific machine learning projects
-- Building educational research-oriented repositories
-- Exploring Rust for systems programming and scientific tooling
+I'm expanding my experience in modern AI engineering and AI workflow systems design, particularly
+
+- Multimodal Retrieval-Augmented Generation
+- Agentic AI, intelligent decision-making systems and intelligent tool use
+- Local LLMs vs remote LLMs, prioritizing efficiency and security
